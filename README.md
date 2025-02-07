@@ -10,6 +10,8 @@
 ### Comando para rodar o front-end
 ```
 yarn dev                                //Roda em modo desenvolvedor
+  ou
+npm run dev
 ```
 
 ### Comando para rodar o banco de dados de teste
