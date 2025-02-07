@@ -9,7 +9,7 @@
 
 ### Comando para rodar o front-end
 ```
-yarn dev      //para rodar o front
+yarn dev                                //para rodar o front
 ```
 
 ### Comando para rodar o banco de dados de teste
