@@ -1,7 +1,11 @@
 # Shopping-Market              React + TypeScript + Vite
 
+<br>
+<br>
+<br>
+<br>
 
-## Comandos Para Rodar:
+### Comandos Para Rodar:
 
 ### Front-end
 ```
